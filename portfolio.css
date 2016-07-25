@@ -1,0 +1,33 @@
+h1 {
+    color: darkslategray;
+    text-align: center;
+}
+body {
+    background-color: mistyrose;
+    font-family: "Palatino Linotype", Charcoal, serif;
+    background-image: url("white.jpeg.png");
+    background-repeat: repeat-x;
+    height: 100%;
+}
+h2 {
+    color: teal
+}
+
+a:link{
+    background-color: white;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: lightblue;
+}
+
+<a href="default.asp" target="_blank">This is a link</a>
+
+</body>
+</html>```````````````````````````````````````````````````````````````````````````````````````
